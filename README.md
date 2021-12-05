@@ -9,8 +9,6 @@ Hi，您可以称呼我 Avtion，很高兴能认识您！Nice to meet you !
 <p>
 <img alt="Golang" src="https://img.shields.io/badge/Golang-45b8d8?style=flat-square&logo=go&logoColor=white" />
 <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
-<img alt="Lua" src="https://img.shields.io/badge/-Lua-2C2D72?style=flat-square&logo=Lua&logoColor=white" />
-<img alt="Shell" src="https://img.shields.io/badge/-Shell-FFD500?style=flat-square&logo=shell&logoColor=black" />
 </p>
 
 **作为一名 CRUD 工程师...**
@@ -32,7 +30,6 @@ Hi，您可以称呼我 Avtion，很高兴能认识您！Nice to meet you !
 <img alt="Helm" src="https://img.shields.io/badge/-Helm-0F1689?style=flat-square&logo=Helm&logoColor=white" />
 <img alt="Nginx" src="https://img.shields.io/badge/-Nginx-009639?style=flat-square&logo=nginx&logoColor=white" />
 <img alt="Linux" src="https://img.shields.io/badge/-Linux-FCC624?style=flat-square&logo=Linux&logoColor=black" />
-<img alt="Alpine Linux" src="https://img.shields.io/badge/-Alpine-0D597F?style=flat-square&logo=Alpine Linux&logoColor=white" />
 <img alt="Prometheus" src="https://img.shields.io/badge/-Prometheus-E6522C?style=flat-square&logo=Prometheus&logoColor=white" />
 <img alt="git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
 </p>
@@ -45,21 +42,19 @@ Hi，您可以称呼我 Avtion，很高兴能认识您！Nice to meet you !
 **偶尔作为一名前端 / 客户端工程师...**
 
 <p>
+<img alt="Swift" src="https://img.shields.io/badge/-Swift-F05138?style=flat-square&logo=Swift&logoColor=white" />
 <img alt="Dart" src="https://img.shields.io/badge/-Dart-0175C2?style=flat-square&logo=Dart&logoColor=white" />
-<img alt="JavaScript" src="https://img.shields.io/badge/-JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=white" />
 <img alt="TypeScript" src="https://img.shields.io/badge/-TypeScript-3178C6?style=flat-square&logo=TypeScript&logoColor=white" />
 <img alt="html5" src="https://img.shields.io/badge/-HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" />
 <img alt="Vue 3" src="https://img.shields.io/badge/-Vue 3-5BA17F?style=flat-square&logo=vue.js&logoColor=white" />
-<img alt="TailwindCSS" src="https://img.shields.io/badge/-Tailwind CSS-50B3D0?style=flat-square&logo=tailwindcss&logoColor=white" />
-<img alt="Vite 2" src="https://img.shields.io/badge/-Vite-81A3F9?style=flat-square&logo=vite&logoColor=white" />
 </p>
 
 **搬砖环境...**
 
 <p>
-<img alt="macOS" src="https://img.shields.io/badge/MacOS-M1 Pro Max-333?style=flat-square&logo=apple&logoColor=white" />
+<img alt="macOS" src="https://img.shields.io/badge/MacOS-M1 Max-333?style=flat-square&logo=apple&logoColor=white" />
 <img alt="GoLand" src="https://img.shields.io/badge/GoLand-000000?style=flat-square&logo=GoLand&logoColor=ffffff" />
-<img alt="vscode" src="https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff" />
+<img alt="VSCode" src="https://img.shields.io/badge/Visual%20Studio%20Code-blue?style=flat-square&logo=visual-studio-code&logoColor=ffffff" />
 </p>
 
 ---
